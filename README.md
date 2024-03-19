@@ -1,0 +1,69 @@
+# Kotlin course
+
+in this course, we will see :
+
+Introduction
+- Install Intellij IDEA
+- Hello World
+- Variables
+- Window
+- Integer Type
+- DataType: Byte, Short and Long
+- Float and Double
+- Char and Boolean
+- Operators
+- Comments
+- IfThenElse: Statement-Expression
+- Less Than or Equal To Operator
+- logical AND operator
+- logical OR operator
+- When Statement-Expression
+- Null
+- Functions
+- Function: return and expressions
+- Functions Overloading
+- Functions Default Values
+- Functions vararg keyword
+- loops: FOR loop
+- loops: WHILE and DO WHILE loop, Labels and continue and break
+- loops Challenge
+- Arrays
+- Arrays Challenge
+- OOP: Classes
+- OOP: Primary Constructor
+- OOP: Initializer Blocks
+- OOP: Secondary Constructors
+- OOP: Constructor Parameters Default Values
+- OOP: Getters and Setters
+- OOP: lateinit keyword
+- OOP: Companion Object
+- OOP: Singleton
+- OOP: Lazy Initialization
+- OOP: Enum Classes
+- OOP: Inner Classes
+- OOP Challenge
+- OOP: Inheritance 1
+- OOP: Inheritance 2
+- OOP: Sealed Class
+- OOP: Abstract Classes
+- OOP: Data Class
+- OOP: Interfaces 1
+- OOP: Interfaces 2
+- OOP: Object Expression
+- OOP: Delegation
+- List, Set, Map
+- Mapping
+- Zipping and Association
+- Flatten
+- String Representation
+- Filtering
+- Test Predicates
+- Plus and Minus Operators
+- Grouping
+- Retrieve Collection parts
+- Retrieve Single Elements 
+- Aggregate Operations
+- Comparable and Comparator
+- Binary Search 
+- Generics: Type Parameters and Casting
+- Generics: Upper Bounds
